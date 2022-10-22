@@ -1,0 +1,61 @@
+*{
+	margin: 0%;
+}
+.nav a{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding: 2%;
+	transition: 0.5px;
+       }
+.nav{
+	margin-top: 2%;
+	margin-bottom: 1% ;
+     }
+.nav img{
+     vertical-align: middle;
+         }
+.logo{
+	margin-right: 2%;
+	margin-left: 4% !important;
+}         
+.signin{
+	background-color: skyblue;
+	border-radius: 25%;
+	color: darkslateblue;
+	margin: 3%;
+	padding: 0.4% 0.7% !important;
+	transition: 0.5px;
+}
+p{
+	background-color: lightgrey;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 13px;
+	display: block;
+}
+.nav a:hover{
+	background-color: whitesmoke;
+	padding: 0.5%;
+}
+.sai2{
+	border-image-width: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
